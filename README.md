@@ -1,6 +1,6 @@
 # Roshan Ghorasainee
 
-**Economics and Applied Mathematics at NYU Abu Dhabi**
+**Economics and minor in Applied Mathematics at NYU Abu Dhabi**
 
 I use strategy, data, finance and technology to understand businesses, improve processes and build products.
 
